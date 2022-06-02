@@ -10,7 +10,7 @@
 			"os_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi4/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi4/partitions.json",
-			"release_date": "2021-2-15",
+			"release_date": "2022-6-2",
 			"tarballs": [
 				"https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi4/UEFI-Mode.tar.xz"
 			]
@@ -24,7 +24,7 @@
 			"os_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi4-2/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi4-2/partitions.json",
-			"release_date": "2021-2-15",
+			"release_date": "2022-6-2",
 			"tarballs": [
 				"https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi4-2/UEFI-Mode.tar.xz"
 			]
@@ -38,7 +38,7 @@
 			"os_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi3/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi3/partitions.json",
-			"release_date": "2021-2-15",
+			"release_date": "2022-6-2",
 			"tarballs": [
 				"https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_pi3/UEFI-Mode.tar.xz"
 			]
@@ -52,7 +52,7 @@
 			"os_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi3/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi3/partitions.json",
-			"release_date": "2021-2-17",
+			"release_date": "2022-6-2",
 			"tarballs": [
 				"https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi3/UEFI-Mode.tar.xz"
 			]
@@ -66,7 +66,7 @@
 			"os_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi4/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi4/partitions.json",
-			"release_date": "2021-2-17",
+			"release_date": "2022-6-2",
 			"tarballs": [
 				"https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi4/UEFI-Mode.tar.xz"
 			]
@@ -80,7 +80,7 @@
 			"os_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi4-2/os.json",
 			"group": "UEFI-Setup",
 			"partitions_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi4-2/partitions.json",
-			"release_date": "2021-2-17",
+			"release_date": "2022-6-2",
 			"tarballs": [
 				"https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_mode_recoverESP_pi4-2/UEFI-Mode.tar.xz"
 			]
@@ -95,9 +95,24 @@
 			"group": "UEFI-Setup",
 			"partitions_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_extended_freespace/partitions.json",
 			"partition_setup": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_extended_freespace/partition_setup.sh",
-			"release_date": "2021-2-15",
+			"release_date": "2022-6-2",
 			"tarballs": [
 				"https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_extended_freespace/DELTHIS.tar.xz"
+			]
+		},
+		
+		{
+			"os_name": "Windows Breaker",
+			"description": "???",
+			"icon": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_extended_freespace/UEFI.png",
+			"nominal_size": 256,
+			"os_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_extended_freespace/os2.json",
+			"group": "UEFI-Setup",
+			"partitions_info": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_extended_freespace/partitions2.json",
+			"partition_setup": "https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_extended_freespace/partition_setup2.sh",
+			"release_date": "2022-6-2",
+			"tarballs": [
+				"https://github.com/Marcinoo97/pinn-uefi/raw/main/os/uefi_extended_freespace/DELTHIS2.tar.xz"
 			]
 		}
 	
